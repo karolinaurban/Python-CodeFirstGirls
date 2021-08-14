@@ -1,0 +1,3 @@
+[submodule "recipeSearch"]
+	path = recipeSearch
+	url = https://github.com/karolinaurban/recipeSearch.git
